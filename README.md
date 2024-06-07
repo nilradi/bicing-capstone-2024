@@ -16,19 +16,7 @@ Este repositorio contiene el código y la documentación para el proyecto **"Pre
 - [Contribuidores](#contribuidores)
 - [Licencia](#licencia)
 
-## Estructura del Proyecto
 
-```plaintext
-├── data
-│   ├── raw                   # Datos en bruto
-│   ├── processed             # Datos procesados
-├── notebooks                 # Jupyter notebooks
-├── src
-│   ├── data_preprocessing.py # Scripts de preprocesamiento de datos
-│   ├── modeling.py           # Scripts de modelado
-│   ├── evaluation.py         # Scripts de evaluación
-├── README.md
-└── requirements.txt          # Dependencias necesarias
 
 ## Conjunto de datos
 
