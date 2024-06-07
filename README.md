@@ -8,13 +8,11 @@ Este repositorio contiene el código y la documentación para el proyecto **"Pre
 - [Descripción General](#descripción-general)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Conjunto de Datos](#conjunto-de-datos)
-- [Instalación](#instalación)
 - [Uso](#uso)
 - [Modelado](#modelado)
 - [Evaluación](#evaluación)
 - [Resultados](#resultados)
-- [Contribuidores](#contribuidores)
-- [Licencia](#licencia)
+
 
 
 
