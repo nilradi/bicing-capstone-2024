@@ -22,6 +22,6 @@ Este repositorio contiene el código y la documentación para el proyecto **"Pre
 
 El conjunto de datos incluye información histórica de las estaciones de Bicing desde 2020 hasta 2023 para entrenamiento y validación, y datos de 2024 para pruebas. También se incluye información adicional, como el clima y eventos del calendario, para mejorar las predicciones.
 
-*Datos de Entrenamiento/Validación*: 2021-2023
-*Datos de Prueba*: 2024
-*Información de Estaciones de Bicing*: Incluye capacidad de la estación, coordenadas y otros detalles relevantes.
+- *Datos de Entrenamiento/Validación*: 2021-2023
+- *Datos de Prueba*: 2024
+- *Información de Estaciones de Bicing*: Incluye capacidad de la estación, coordenadas y otros detalles relevantes.
